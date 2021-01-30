@@ -32,6 +32,11 @@ a {
   color: #11999E;
 }
 
+hr {
+    border-top: dotted #11999E;
+    width:2%
+}
+
 .developer {
          font-weight: normal;
          padding-bottom: 50px;
@@ -49,6 +54,10 @@ a {
 }
 
 .bottom {
+      background-color: #fcfefe;
+      padding-bottom: 20px;
+      padding-top: 20px;
+      margin-top: 20px;
 
 
 }
@@ -91,4 +100,32 @@ a {
 
 .me {
     width:15%;
+}
+
+.challenge {
+      padding-bottom: 50px;
+}
+
+.footer-link {
+        text-decoration:none;
+
+}
+
+.footer-link:hover {
+        color:#66BFBF;
+        font-weight: bold;
+
+}
+
+.contact {
+     text-decoration:none;
+     padding-bottom: 50px;
+     font-size: 2rem;
+}
+
+
+.contact:hover {
+        color:#66BFBF;
+        font-weight: bold;
+
 }
